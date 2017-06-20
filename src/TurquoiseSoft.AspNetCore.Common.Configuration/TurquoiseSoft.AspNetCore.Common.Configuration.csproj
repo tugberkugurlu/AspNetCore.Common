@@ -3,8 +3,8 @@
   <PropertyGroup>
     <VersionPrefix>0.0.0</VersionPrefix>
     <TargetFrameworks>netstandard1.6</TargetFrameworks>
-    <AssemblyName>zleek-aspnet-configuration</AssemblyName>
-    <PackageId>zleek-aspnet-configuration</PackageId>
+    <AssemblyName>TurquoiseSoft.AspNetCore.Common.Configuration</AssemblyName>
+    <PackageId>TurquoiseSoft.AspNetCore.Common.Configuration</PackageId>
     <PackageTargetFallback>$(PackageTargetFallback);dnxcore50;portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
 
